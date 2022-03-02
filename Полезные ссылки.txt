@@ -3,3 +3,9 @@
 2. https://emojis.wiki/telegram/ - названия смайликов для библиотеки emoji
 
 3. https://www.psycopg.org/docs/usage.html#server-side-cursors - для работы с библиотекой psycopg2
+
+4. https://docs.microsoft.com/ru-ru/windows/wsl/install-manual - установка эмулятора linux (для работы с redis)
+
+4.1. https://askubuntu.com/questions/1264102/wsl-2-wont-run-ubuntu-error-0x80370102 - решение проблемы с установкой эмулятора (если есть ошибка)
+
+5. https://www.youtube.com/watch?v=_nFwPTHOMIY - установка redis на windows 10
