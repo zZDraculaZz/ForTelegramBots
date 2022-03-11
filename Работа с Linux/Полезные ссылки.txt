@@ -1,0 +1,1 @@
+https://1cloud.ru/help/linux/linux_zapusk_komand_fonovom_rezhime - запуск команды в фоне
